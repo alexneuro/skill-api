@@ -1,0 +1,8 @@
+ru\aneuro\skillbox\pluginapi\entity\Message.class
+ru\aneuro\skillbox\pluginapi\service\MessageService.class
+ru\aneuro\skillbox\pluginapi\entity\AbstractEntity.class
+ru\aneuro\skillbox\pluginapi\repo\MessageRepo.class
+ru\aneuro\skillbox\pluginapi\SkillboxApiApplication.class
+ru\aneuro\skillbox\pluginapi\rest\MessageRestController.class
+ru\aneuro\skillbox\pluginapi\dto\MessageDto.class
+ru\aneuro\skillbox\pluginapi\WebInitializer.class
